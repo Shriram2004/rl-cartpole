@@ -15,8 +15,8 @@ ii) 1: Push cart to the right
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 ```py
-Name: Jeeva Abishake A
-Reg No: 212221240018
+Name: Shriram R
+Reg No: 212221240053
 ```
 ```py
 def create_bins(n_bins=g_bins, n_dim=4):
